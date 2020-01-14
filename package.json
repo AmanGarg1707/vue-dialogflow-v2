@@ -1,6 +1,6 @@
 {
-    "name": "chat",
-    "version": "0.1.0",
+    "name": "vue-dialogflow-v2-chatbot",
+    "version": "1.0.0",
     "private": true,
     "scripts": {
         "serve": "vue-cli-service serve",
