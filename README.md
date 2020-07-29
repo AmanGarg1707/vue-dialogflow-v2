@@ -37,7 +37,7 @@ Just place the **chatbot** folder in the root of your server and deploy. Path wi
 
 Please make the changes to **config.js** file as required. And also generate a service account key for your dialogflow agent and paste it in **agent1707.json** file.
 
-[Screenshots](sample.png)
+![Screenshots](sample.png)
 
 ## Contributing
 
